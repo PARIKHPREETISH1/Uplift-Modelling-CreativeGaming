@@ -116,6 +116,3 @@ University of California, San Diego
 • Implement advanced uplift modeling techniques  
 • Deploy uplift driven targeting strategy  
 • Integrate results into real time campaign optimization
-
-
-## Repository Structure
